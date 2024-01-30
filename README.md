@@ -1,12 +1,11 @@
 <h1>Hi, I'm Laila Mohamed! <br/><a href="https://github.com/joshmadakor1">Software Developer</a>
-<h2>👨‍💻 Team Projects:</h2>
+<h2>👨‍💻 Team Project:</h2>
   
 <b>Girls First:</b>
 - [Presentation Video](https://drive.google.com/file/d/1BlCaCLoLNLvnO9yfTNDSTxo-1e_Q82SX/view?usp=sharing)
 - [Slide Deck](https://drive.google.com/file/d/1ZLbDARijVWXu-qykwJ_cTA6Yt7COyq5w/view?usp=sharing)
 - 
- <b>Program using C++ (console):</b>
-- [Bracket expander (using binomial therom)](https://github.com/laila2005/Binomial-expansion-calculator-)
+
 
 <h2>Individual Projects:</h2>
 
